@@ -19,13 +19,13 @@ body{
 
 main{
     position: relative;
-    height: 100vh;;
+    height: 100vh;
 }
 
 section#telefone{
     position: absolute;
-    top: 50%;
-    left: 45.5%;
+    top: 49%;
+    left: 45%;
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
@@ -50,8 +50,8 @@ section#redes-sociais{
 section#redes-sociais img{
     margin-top: 40px;
     margin-right: 15px;
-    width: 45px;
-    height: 45px;
+    width: 42px;
+    height: 42px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
     box-sizing: border-box;
